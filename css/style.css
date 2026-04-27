@@ -49,3 +49,11 @@ form {
 }
 
 
+.favorite-btn {
+    font-size: 2rem;
+    cursor: pointer;
+    background: none;
+    border: none;
+    
+}
+
